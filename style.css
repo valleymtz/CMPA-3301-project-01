@@ -1,8 +1,8 @@
-header {
+title {
     font-family: Georgia, serif;
     font-size: 36px;
     color: #d7a19b;
-    text-align: center;
+    text-align: left;
     background-color: #0e060c;
 
     margin: 20px auto;
@@ -11,7 +11,7 @@ header {
     width: 80%;
 }
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 16px;
     background-color: #ffffff;
     color: #85333C;
